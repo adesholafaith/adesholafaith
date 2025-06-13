@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Adeshola Aromolaran! 👋
 
-<!--
-**adesholafaith/adesholafaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught **Frontend Developer** who loves blending creativity with functionality. I turn ideas into clear and compelling designs using the foundations of the web: **HTML, CSS, and JavaScript**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am currently doing my NYSC program.
+- I'm building projects using HTML, CSS and JavaScript.
+- I enjoy bringing ideas to life through beautiful and user-friendly interfaces.
+- I believe great design is about clarity and experience, not just colors and shapes.
+- I am currently learninng, Git, GitHub, new frontend frameworks and sharpening my JavaScript skills.
+
+##  Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Passion:** Creative problem solving, user experience, and responsive design
+
+## Fun Fact
+- I love building websites that solve real-life problems!
+
+## 🤝 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/adesholaaromolaran-a2b460204?originalSubdomain=ng)
+- [Gmail](sholaadearomolaran@gmail.com)
+- [X (Twitter)](https://x.com/_adesholafaith?s=21)
+- [Instagram](https://www.instagram.com/adeshola_faith)
+
